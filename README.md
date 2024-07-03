@@ -19,5 +19,6 @@ You have a chance to hear from people who are not just talking about, but buildi
 - [Episode Newsletter](https://go.raybo.org/tfit-newsletter)
 
 # Updates
-- 07/02/24;20:50
-  - fixed main.yml 🤞
+- 07/02/24
+  - (20:50)fixed main.yml 🤞
+  - (20:56)fixed Dockerfile 🤞
