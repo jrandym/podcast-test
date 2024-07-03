@@ -24,4 +24,5 @@ You have a chance to hear from people who are not just talking about, but buildi
   - (20:56)fixed Dockerfile 🤞
   - (21:06)Dockerfile: python-is-python3 -> python3-full
   - (21:14)Dockerfile: pip3 -> pip
-  - (21:21)Dockerfile: pip install PyYAML -> python -m pip install PyYAML 
+  - (21:21)Dockerfile: pip install PyYAML -> python -m pip install PyYAML
+  - (21:24)Dockerfile: python -m pip install PyYAML -> python3 -m pip install PyYAML 
